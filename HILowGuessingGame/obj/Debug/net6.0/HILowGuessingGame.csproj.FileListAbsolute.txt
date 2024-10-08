@@ -1,0 +1,14 @@
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\obj\Debug\net6.0\HILowGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\obj\Debug\net6.0\HILowGuessingGame.AssemblyInfoInputs.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\obj\Debug\net6.0\HILowGuessingGame.AssemblyInfo.cs
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\obj\Debug\net6.0\HILowGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\bin\Debug\net6.0\HILowGuessingGame.exe
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\bin\Debug\net6.0\HILowGuessingGame.deps.json
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\bin\Debug\net6.0\HILowGuessingGame.runtimeconfig.json
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\bin\Debug\net6.0\HILowGuessingGame.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\bin\Debug\net6.0\HILowGuessingGame.pdb
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\obj\Debug\net6.0\HILowGuessingGame.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\obj\Debug\net6.0\refint\HILowGuessingGame.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\obj\Debug\net6.0\HILowGuessingGame.pdb
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\obj\Debug\net6.0\HILowGuessingGame.genruntimeconfig.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\HILowGuessingGame\obj\Debug\net6.0\ref\HILowGuessingGame.dll

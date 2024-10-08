@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZDG7Hmfxjoq7ntdAGf3ROW/4NctmCS8GJLW67D3yH3tqu1kEZCUklg2LyuWxRkatmYnUr/AqZSTFJeci6VeYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabym\\OneDrive - Torrens Global Education Services\\Desktop\\my c# programs\\HILowGuessingGame\\HILowGuessingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
